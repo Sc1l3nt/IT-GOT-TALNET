@@ -1,6 +1,4 @@
 import pandas as pd
-import pandas as pd
-import matplotlib.pyplot as plt
 
 # =========================
 # 1. LOAD & CLEAN DATA
